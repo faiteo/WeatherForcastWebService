@@ -1,0 +1,6 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\WeatherForcastWebService\WeatherForcastWebService\bin\WeatherForcastWebService.dll.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\WeatherForcastWebService\WeatherForcastWebService\bin\WeatherForcastWebService.dll
+c:\users\faithnielsen\documents\visual studio 2013\Projects\WeatherForcastWebService\WeatherForcastWebService\bin\WeatherForcastWebService.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\WeatherForcastWebService\WeatherForcastWebService\obj\Debug\WeatherForcastWebService.csprojResolveAssemblyReference.cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\WeatherForcastWebService\WeatherForcastWebService\obj\Debug\WeatherForcastWebService.dll
+c:\users\faithnielsen\documents\visual studio 2013\Projects\WeatherForcastWebService\WeatherForcastWebService\obj\Debug\WeatherForcastWebService.pdb
