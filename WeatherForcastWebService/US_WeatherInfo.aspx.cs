@@ -23,7 +23,7 @@ namespace WeatherForcastWebService
             {
                 lblCity.Text = weatherReturn.City;
                 lblState.Text = weatherReturn.State;
-                lblTemperature.Text = weatherReturn.Temperature;
+                lblTemperature.Text = weatherReturn.Temperature + "°F";
                 lblWind.Text = weatherReturn.Wind;
                 lblWeatherStationCity.Text = weatherReturn.WeatherStationCity;
                 lblPressure.Text = weatherReturn.Pressure;
